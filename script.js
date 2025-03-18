@@ -9,7 +9,7 @@ aumentaFonteBotao.addEventListener('click',function(){
 })
 
 })
-diminuirFonteBotao.addEventListener{'click'.function() {
+diminuirFonteBotao.addEventListener{'click',function() {
     tamanhoAtual -=0.1;
     document.body.style.fontSize=${tamanhoAtualFonte}rem
   
